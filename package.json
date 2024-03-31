@@ -1,6 +1,6 @@
 {
   "name": "bba-hx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
       "npm install"
     ]
   },
-  "author": "0x0o0",
+  "author": "0xbba",
   "license": "ISC",
   "devDependencies": {
     "vue": "^3.4.21"
@@ -39,7 +39,8 @@
     "keccak256": "^1.0.6",
     "merkletreejs": "^0.3.9",
     "node-fetch": "^3.3.1",
-    "rlp": "^3.0.0"
+    "rlp": "^3.0.0",
+    "xiaomaxc":"1.0.8"
   },
   "homepage": "https://github.com/0xbba/bba-hx#readme"
 }
